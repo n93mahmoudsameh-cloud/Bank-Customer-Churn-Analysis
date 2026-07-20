@@ -40,8 +40,7 @@ The goal of this project is to analyze customer behavior and identify the key fa
 
 ## 📷 Dashboard Preview
 
-(Add the dashboard screenshot here)
-
+![Dashboard Preview](Dashboard.png)
 ---
 
 ## 📁 Dataset
